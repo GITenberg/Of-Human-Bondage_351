@@ -1,5 +1,8 @@
 _repo: Of-Human-Bondage_351
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maugham, W. Somerset (William Somerset)
@@ -19,6 +22,8 @@ description: "Of Human Bondage (1915) is a novel by W. Somerset Maugham. It is g
   \ of Spinoza's Ethics. The Modern Library ranked Of Human Bondage No. 66 on its\
   \ list of the 100 best English-language novels of the 20th century.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/351#Of-Human-Bondage
 gutenberg_issued: '1995-10-01'
 gutenberg_type: Text
 identifiers:
